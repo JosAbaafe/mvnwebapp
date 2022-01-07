@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!doctype html>
 <html lang="en">
   <head>
@@ -25,3 +26,11 @@
     -->
   </body>
 </html>
+=======
+<html>
+<body>
+<h2>Hello World!</h2>
+  <h3>Deployed by Abaafe using POll SCM</h3>
+</body>
+</html>
+>>>>>>> f3605a6ace5f0aa6f7f6913c6544ea516bec18e5
